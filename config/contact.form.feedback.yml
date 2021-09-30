@@ -1,0 +1,14 @@
+uuid: 7c3b8a65-3c67-430e-9b38-85bd3f62d0dd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - leoman730@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
