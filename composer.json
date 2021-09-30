@@ -14,6 +14,7 @@
         }
     ],
     "require": {
+        "drupal/config_direct_save": "^2.1",
         "drupal/pathauto": "^1.8",
         "drush-ops/behat-drush-endpoint": "^9.4",
         "drush/drush": "^10",
